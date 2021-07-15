@@ -1,0 +1,19 @@
+{
+  "name": "hatchways",
+  "version": "1.0.0",
+  "description": "a simple JSON API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxmilpro/hatchways-backend.git"
+  },
+  "author": "maxmilpro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxmilpro/hatchways-backend/issues"
+  },
+  "homepage": "https://github.com/maxmilpro/hatchways-backend#readme"
+}
